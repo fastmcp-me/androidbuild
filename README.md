@@ -2,6 +2,10 @@
 
 A Model Context Protocol server that builds Android project that enables seamless workflow working with Android projects in Visual Studio Code using extensions like Cline or Roo Code.
 
+<a href="https://glama.ai/mcp/servers/@ShenghaiWang/androidbuild">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ShenghaiWang/androidbuild/badge" alt="Android Project Server MCP server" />
+</a>
+
 ### Available Tools
 
 - `build` - Build Android project
